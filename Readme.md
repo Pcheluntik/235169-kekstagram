@@ -1,7 +1,7 @@
-# Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
+﻿# Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Полина Пухова](https://up.htmlacademy.ru/javascript/15/user/235169).
-* Наставник: `Неизвестно`.
+* Наставник: `Отсутствует`.
 
 ---
 
